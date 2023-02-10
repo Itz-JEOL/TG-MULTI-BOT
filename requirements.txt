@@ -1,0 +1,7 @@
+git+https://github.com/MKN-BOTZ/pyrogram
+Tgcrypto 
+telethon
+pykeyboard
+youtube-search
+youtube-search-python
+yt-dlp
