@@ -23,7 +23,7 @@ class App(Client):
         self.name = me.first_name
         self.mention = me.mention
         self.username = me.username
-        self.force_channel = FORCE_SUB
+        self.force_channel = FORCE_SUB if FORCE_SUB else None        
         # web support 
         app = web.AppRunner(await web_server())
         await app.setup()
