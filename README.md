@@ -16,29 +16,29 @@
 
 This is a pyrogram based telegram bot. Telagram user id, info, telegraph, stickerid, fun, etc....
 
-│Features :🚀
-│
-│● user info
-│
-│● channel id
-│
-│● forward message info
-│
-│● DC tracker
-│
-│● telegraph 🔥
-│
-│● image edit & BG remover 🤩
-│
-│● Fun games
-│
-│● Font editer
-│
-│● sticker kang ❤️‍🔥
-│
-│● sticker to img convert
-│
-│● efficient script 
+### Features :🚀
+
+● user info
+
+● channel id
+
+● forward message info
+
+● DC tracker
+
+● telegraph 🔥
+
+● image edit & BG remover 🤩
+
+● Fun games
+
+● Font editer
+
+● sticker kang ❤️‍🔥
+
+● sticker to img convert
+
+● efficient script 
 
 ### Deploy to Heroku 
 
