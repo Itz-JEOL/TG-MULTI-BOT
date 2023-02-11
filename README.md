@@ -19,20 +19,30 @@ This is a pyrogram based telegram bot. Telagram user id, info, telegraph, sticke
 │Features :🚀
 │
 │● user info
+│
 │● channel id
+│
 │● forward message info
+│
 │● DC tracker
+│
 │● telegraph 🔥
+│
 │● image edit & BG remover 🤩
+│
 │● Fun games
+│
 │● Font editer
+│
 │● sticker kang ❤️‍🔥
+│
 │● sticker to img convert
+│
 │● efficient script 
 
 ### Deploy to Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-JEOL/TG-MULTI-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-JEOL/TG-MULTI-BOT/blob/heroku)
 
 
 
