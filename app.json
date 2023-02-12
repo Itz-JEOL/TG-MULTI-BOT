@@ -1,10 +1,10 @@
 {
     "name": "Telegram multi bot",
     "description": "An Advanced Multi Featured Bot Written In Python-Pyrogram",
-    "repository": "https://github.com/Jeolpaul/TG-MULTI-BOT",
+    "repository": "https://github.com/itz-jeol/TG-MULTI-BOT",
     "logo": "https://graph.org/file/f30ecbc3096c55380520c.jpg",
     "stack": "container",
-    "keywords": ["tgbot", "pyrogram", "telegram bot"],
+    "keywords": ["tgbot", "multibot", "telegram bot"],
     "env": {        
         "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
