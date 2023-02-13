@@ -10,8 +10,7 @@ Eg:- Telegarph, Channel ID, Image editor etc... """
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
 ║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/about_jeol>ᴊᴇᴏʟ</a>
 ║┣⪼👨‍💻ᴅᴇᴠ 2 : <a href=https://t.me/mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/Jeolpaul/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
-║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://dashboard.heroku.com>ʜᴇʀᴏᴋᴜ</a>
+║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <a href=https://github.com/Itz-JEOL/TG-MULTI-BOT>ᴛɢ-ᴍᴜʟᴛɪ-ʙᴏᴛ</a>
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
 ║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
@@ -117,7 +116,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • this can translate texts to 200+ languages."""
 
-    SOURCE = """[Github](https://github.com/Jeolpaul/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
+    SOURCE = """[Github](https://github.com/Itz-JEOL/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
 ```----------------
 | Contributors |
 ----------------```
