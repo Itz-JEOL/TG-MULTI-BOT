@@ -1,7 +1,6 @@
 git+https://github.com/itz-jeol/pyrogram
 Tgcrypto 
 telethon
-pykeyboard
 youtube-search
 youtube-search-python
 yt-dlp
