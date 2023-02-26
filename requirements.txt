@@ -5,3 +5,4 @@ pykeyboard
 youtube-search
 youtube-search-python
 yt-dlp
+aiohttp
