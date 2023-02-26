@@ -25,6 +25,7 @@ class App(Client):
         self.username = me.username
         self.force_channel = FORCE_SUB if FORCE_SUB else None        
         # web support 
+        PORT = 8080
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"       
