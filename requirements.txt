@@ -1,5 +1,6 @@
 git+https://github.com/itz-jeol/pyrogram
 Tgcrypto 
+aiohttp<=3.8.4
 telethon
 youtube-search
 youtube-search-python
