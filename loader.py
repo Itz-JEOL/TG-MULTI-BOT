@@ -24,12 +24,6 @@ class App(Client):
         self.mention = me.mention
         self.username = me.username
         self.force_channel = FORCE_SUB if FORCE_SUB else None        
-        # web support 
-        PORT = 8080
-        app = web.AppRunner(await web_server())
-        await app.setup()
-        bind_address = "0.0.0.0"       
-        await web.TCPSite(app, bind_address, PORT).start()
         print(f'{me.first_name} is Started...🍃')
 
     async def stop(self, *args):
