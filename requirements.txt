@@ -16,4 +16,4 @@ pykeyboard
 telegraph==2.2.0
 googletrans==3.1.0a0
 gTTS==2.3.1
-umongo==3.0.1
+wget
