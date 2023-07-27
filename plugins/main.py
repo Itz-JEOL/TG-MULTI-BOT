@@ -16,10 +16,7 @@ async def start_message(bot, message):
         InlineKeyboardButton("📡 ᴀʙᴏᴜᴛ", callback_data="about") 
     ]])
         
-    if PICS:
-        await message.reply_photo(photo=random.choice(PICS), caption=txt.STAT.format(message.from_user.mention), reply_markup=button)
-    else:
-        await message.reply_text(text=txt.STAT.format(message.from_user.mention), reply_markup=button, disable_web_page_preview=True)
+    await message.reply_text(text=txt.STAT.format(message.from_user.mention), reply_markup=button, disable_web_page_preview=True)
         
                                               
 @Client.on_message(filters.command(["id", "info"]))
