@@ -1,7 +1,6 @@
 pyrogram>=2.0.30
-
 motor==2.0.0
-dnspython
+dnspython==2.3.0
 Tgcrypto 
 telethon
 youtube-search
