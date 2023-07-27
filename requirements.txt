@@ -9,3 +9,4 @@ youtube-search-python
 yt-dlp
 aiohttp
 asyncio
+requests
