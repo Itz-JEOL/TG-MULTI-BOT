@@ -10,7 +10,7 @@ aiohttp
 asyncio
 requests
 Pillow
-pyromod==1.5
+
 opencv-python-headless
 aiofiles
 pykeyboard
