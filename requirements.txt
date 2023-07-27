@@ -14,3 +14,4 @@ Pillow
 opencv-python-headless
 aiofiles
 pykeyboard
+telegraph==2.2.0
