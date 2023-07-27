@@ -10,3 +10,4 @@ yt-dlp
 aiohttp
 asyncio
 requests
+Pillow
