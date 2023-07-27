@@ -13,3 +13,4 @@ requests
 Pillow
 opencv-python-headless
 aiofiles
+pykeyboard
