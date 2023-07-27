@@ -11,3 +11,4 @@ aiohttp
 asyncio
 requests
 Pillow
+opencv-python-headless
