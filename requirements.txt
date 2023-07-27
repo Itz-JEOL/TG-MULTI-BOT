@@ -1,4 +1,7 @@
-git+https://github.com/itz-jeol/pyrogram
+pyrogram=1.4.16
+pymongo[srv]==3.12.3
+motor==2.5.1
+dnspython
 Tgcrypto 
 telethon
 youtube-search
